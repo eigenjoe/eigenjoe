@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe )
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning C++ development and mathematics
-- 💞️ I’m looking to collaborate on cool open source project
+- 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me: josephmendoza23@gmail.com
 
 <!---
