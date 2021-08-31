@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe )
-- 👀 I’m interested in Web and Mobile Development and in particular Backend development
-- 🌱 I’m currently learning C++ development and mathematics
+- 👀 I’m interested in Backend development with NodeJS
+- 🌱 I’m currently learning C++ development and Mathematics
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me: josephmendoza23@gmail.com
 
