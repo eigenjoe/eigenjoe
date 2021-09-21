@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe )
 - 👀 I’m interested in Backend development with NodeJS
-- 🌱 I’m currently learning C++ development and Mathematics
+- 🌱 I’m currently learning Microservice architecture and Docker/Kubernetes.
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me: josephmendoza23@gmail.com
 
