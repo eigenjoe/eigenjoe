@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe )
-- 👀 I’m interested in Fullstack Development with ReactJS and NodeJS
+- 👀 I’m interested in Fullstack Web Development with ReactJS and NodeJS
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me: josephmendoza23@gmail.com
 
