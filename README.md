@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a SOftware Engineer
-- 👀 I’m interested in Fullstack Web Development with ReactJS, NodeJS, TypeScript
+- 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Computer Science student and Software Engineer
+- 👀 I’m interested in Open-Source Software Development with C++ and OCaml
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me: josephmendoza23@gmail.com
 
