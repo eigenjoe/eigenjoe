@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Computer Science student and Software Engineer
+- 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Software Engineer
 - 👀 I’m interested in Open-Source Software Development with C++ and OCaml
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me: josephmendoza23@gmail.com
