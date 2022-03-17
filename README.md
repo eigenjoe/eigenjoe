@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Software Engineer
-- 👀 I’m interested in Open-Source Software Development with C++ and OCaml
-- 💞️ I’m looking to collaborate on cool open source projects
+- 👀 I’m interested in Open-Source Software Development with NodeJS and TypeScript
+- 💞️ I’m looking to collaborate on building amazing systems and software
 - 📫 How to reach me: josephmendoza23@gmail.com
 
 <!---
