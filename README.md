@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Software Engineer
-- 👀 I’m interested in Open-Source Software Development with NodeJS and TypeScript
-- 💞️ I’m looking to collaborate on building amazing systems and software
+- 💞️ I’m interested in building amazing systems and softwares with NodeJS and TypeScript
 - 📫 How to reach me: josephmendoza23@gmail.com
 
 <!---
