@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Software Engineer
-- 💞️ I’m interested in building amazing systems and softwares with NodeJS and TypeScript
+- 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Software Engineer and Android Developer
+- 💞️ I’m interested in building amazing systems and softwares with Java and Kotlin
 - 📫 How to reach me: josephmendoza23@gmail.com
 
 <!---
