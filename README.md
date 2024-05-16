@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph Mendoza ( @eigenjoe ) and I am a Software Engineer 
-- 💞️ I’m interested in building amazing software systems Python and C++
+- 💞️ I’m interested in building amazing software Python and JavaScript
 - 📫 You can reach me at josephmendoza23@gmail.com
 
 <!---
